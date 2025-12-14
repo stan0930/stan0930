@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stan0930
 - 👀 I’m interested in Software design
-- 🌱 I’m currently learning HTML,Java,C,C++,Python
+- 🌱 I’m currently learning Cuda c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :trzrzzh@icloud.com
 - 😄 Pronouns: ...
