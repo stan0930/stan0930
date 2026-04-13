@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stan0930
+- 👋 Hi, I’m @stan
 - 👀 I’m interested in Software design
 - 🌱 I’m currently learning Cuda c++
 - 💞️ I’m looking to collaborate on ...
