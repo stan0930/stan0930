@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stan
 - 👀 I’m interested in Software design
-- 🌱 I’m currently learning Cuda c++
+- 🌱 I’m currently learning c stm32 freeRTOS
 - 📫 How to reach me :trzrzzh@icloud.com
 - my blog：https://stan0930.github.io/my-blog/
 
